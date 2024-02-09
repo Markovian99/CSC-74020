@@ -1,6 +1,6 @@
 # CSC 74020 Course Material (excl. Lecture Slides)
 
-The purpose of this repo is to store the notebooks we cover in class as well as template code for certain assignments. This repo is NOT self contained and the material in the notebooks ofter refer to slides that are not posted here.
+The purpose of this repo is to store the notebooks we cover in class as well as template code for certain assignments. This repo is NOT self contained and the material in the notebooks often refer to slides that are not posted here.
 
 ## Features
 - Review of Python basics (Week0)
@@ -39,7 +39,7 @@ You need to have Python 3.8 or later to use this application. If you don't have 
    cd CSC-74020
    ```
    
-3. Install the necessary packages using pip. (We recommend using a virtual environment)
+3. Install the necessary packages using pip. (It is recommended to use a virtual environment)
 
    ```bash
    pip install -r requirements.txt
